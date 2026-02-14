@@ -4,8 +4,7 @@ radius = 4;
 height = 10;
 
 cylinderVolume = Math.PI * radius ** 2 * height;
-console.log(`cylinderVolume   : ${cylinderVolume}`);
-502.6548245743669;
+console.log(`cylinderVolume   : ${cylinderVolume}`); //502.6548245743669;
 
 cylinderVolume = parseFloat(cylinderVolume.toFixed(2));
 console.log(`cylinderVolume toFixed: ${cylinderVolume}`);

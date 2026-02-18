@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "\"Now I can use git\"\r \"added from GIT\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaDemchuk/aqa-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaDemchuk/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/AnnaDemchuk/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "decimal.js": "^10.6.0"
+  }
+}
